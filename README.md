@@ -1,5 +1,3 @@
-## This is not the end, it's just a break. This project has become grotesquely mangled and needs a fresh start. So it will have one!
-## Linuwux Runtime will be back, better than ever. For now, I have the last pushed build on here so you can still access it.
 <p align="center">
   <img src="assets/banner.png" alt="LinUwUx — LD_PRELOAD runtime" width="880">
 </p>
